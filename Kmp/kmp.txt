@@ -1,0 +1,8 @@
+max_sum int max_sum(int_a,int_b)
+abs int abs(int_x)
+main int main()
+square bool square(int_x)
+sayhello void sayhello(int_NumberOfTimes)
+calculate_number float calculate_number(void)
+calculate_number float calculate_number(void)
+fstream void fstream(string_SomeStr)

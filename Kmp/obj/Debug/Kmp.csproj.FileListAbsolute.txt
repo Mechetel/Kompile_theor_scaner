@@ -1,0 +1,126 @@
+c:\users\dimasik\source\repos\Kmp\Kmp\bin\Debug\Kmp.exe.config
+c:\users\dimasik\source\repos\Kmp\Kmp\bin\Debug\Kmp.exe
+c:\users\dimasik\source\repos\Kmp\Kmp\bin\Debug\Kmp.pdb
+c:\users\dimasik\source\repos\Kmp\Kmp\obj\Debug\Kmp.csprojResolveAssemblyReference.cache
+c:\users\dimasik\source\repos\Kmp\Kmp\obj\Debug\MainWindow.g.cs
+c:\users\dimasik\source\repos\Kmp\Kmp\obj\Debug\App.g.cs
+c:\users\dimasik\source\repos\Kmp\Kmp\obj\Debug\Kmp_MarkupCompile.cache
+c:\users\dimasik\source\repos\Kmp\Kmp\obj\Debug\Kmp_MarkupCompile.lref
+c:\users\dimasik\source\repos\Kmp\Kmp\obj\Debug\MainWindow.baml
+c:\users\dimasik\source\repos\Kmp\Kmp\obj\Debug\Kmp.g.resources
+c:\users\dimasik\source\repos\Kmp\Kmp\obj\Debug\Kmp.Properties.Resources.resources
+c:\users\dimasik\source\repos\Kmp\Kmp\obj\Debug\Kmp.csproj.GenerateResource.cache
+c:\users\dimasik\source\repos\Kmp\Kmp\obj\Debug\Kmp.csproj.CoreCompileInputs.cache
+c:\users\dimasik\source\repos\Kmp\Kmp\obj\Debug\Kmp.exe
+c:\users\dimasik\source\repos\Kmp\Kmp\obj\Debug\Kmp.pdb
+C:\Users\Dimasik\source\repos\Kmp\Kmp\obj\Debug\addProcedureWidnow.g.cs
+C:\Users\Dimasik\source\repos\Kmp\Kmp\obj\Debug\addProcedureWidnow.baml
+C:\Users\Dimasik\source\repos\Kmp\Kmp\obj\Debug\SearchWindow.g.cs
+C:\Users\Dimasik\source\repos\Kmp\Kmp\obj\Debug\SearchWindow.baml
+C:\Users\Dimasik\source\repos\Kmp\Kmp\obj\Debug\ChangeWindow.g.cs
+C:\Users\Dimasik\source\repos\Kmp\Kmp\obj\Debug\ChangeWindow.baml
+E:\Programs_year_3\Теор компиляции\Kmp\Kmp\bin\Debug\Kmp.exe.config
+E:\Programs_year_3\Теор компиляции\Kmp\Kmp\bin\Debug\Kmp.exe
+E:\Programs_year_3\Теор компиляции\Kmp\Kmp\bin\Debug\Kmp.pdb
+E:\Programs_year_3\Теор компиляции\Kmp\Kmp\obj\Debug\Kmp.csprojAssemblyReference.cache
+E:\Programs_year_3\Теор компиляции\Kmp\Kmp\obj\Debug\addProcedureWidnow.g.cs
+E:\Programs_year_3\Теор компиляции\Kmp\Kmp\obj\Debug\ChangeWindow.g.cs
+E:\Programs_year_3\Теор компиляции\Kmp\Kmp\obj\Debug\MainWindow.g.cs
+E:\Programs_year_3\Теор компиляции\Kmp\Kmp\obj\Debug\SearchWindow.g.cs
+E:\Programs_year_3\Теор компиляции\Kmp\Kmp\obj\Debug\App.g.cs
+E:\Programs_year_3\Теор компиляции\Kmp\Kmp\obj\Debug\Kmp_MarkupCompile.cache
+E:\Programs_year_3\Теор компиляции\Kmp\Kmp\obj\Debug\Kmp_MarkupCompile.lref
+E:\Programs_year_3\Теор компиляции\Kmp\Kmp\obj\Debug\addProcedureWidnow.baml
+E:\Programs_year_3\Теор компиляции\Kmp\Kmp\obj\Debug\ChangeWindow.baml
+E:\Programs_year_3\Теор компиляции\Kmp\Kmp\obj\Debug\MainWindow.baml
+E:\Programs_year_3\Теор компиляции\Kmp\Kmp\obj\Debug\SearchWindow.baml
+E:\Programs_year_3\Теор компиляции\Kmp\Kmp\obj\Debug\Kmp.g.resources
+E:\Programs_year_3\Теор компиляции\Kmp\Kmp\obj\Debug\Kmp.Properties.Resources.resources
+E:\Programs_year_3\Теор компиляции\Kmp\Kmp\obj\Debug\Kmp.csproj.GenerateResource.cache
+E:\Programs_year_3\Теор компиляции\Kmp\Kmp\obj\Debug\Kmp.csproj.CoreCompileInputs.cache
+E:\Programs_year_3\Теор компиляции\Kmp\Kmp\obj\Debug\Kmp.exe
+E:\Programs_year_3\Теор компиляции\Kmp\Kmp\obj\Debug\Kmp.pdb
+E:\Programs_year_3\Теор компиляции\Kmp_bil\Kmp\bin\Debug\Kmp.exe.config
+E:\Programs_year_3\Теор компиляции\Kmp_bil\Kmp\bin\Debug\Kmp.exe
+E:\Programs_year_3\Теор компиляции\Kmp_bil\Kmp\bin\Debug\Kmp.pdb
+E:\Programs_year_3\Теор компиляции\Kmp_bil\Kmp\obj\Debug\Kmp.csprojAssemblyReference.cache
+E:\Programs_year_3\Теор компиляции\Kmp_bil\Kmp\obj\Debug\addProcedureWidnow.g.cs
+E:\Programs_year_3\Теор компиляции\Kmp_bil\Kmp\obj\Debug\ChangeWindow.g.cs
+E:\Programs_year_3\Теор компиляции\Kmp_bil\Kmp\obj\Debug\MainWindow.g.cs
+E:\Programs_year_3\Теор компиляции\Kmp_bil\Kmp\obj\Debug\SearchWindow.g.cs
+E:\Programs_year_3\Теор компиляции\Kmp_bil\Kmp\obj\Debug\App.g.cs
+E:\Programs_year_3\Теор компиляции\Kmp_bil\Kmp\obj\Debug\Kmp_MarkupCompile.cache
+E:\Programs_year_3\Теор компиляции\Kmp_bil\Kmp\obj\Debug\Kmp_MarkupCompile.lref
+E:\Programs_year_3\Теор компиляции\Kmp_bil\Kmp\obj\Debug\addProcedureWidnow.baml
+E:\Programs_year_3\Теор компиляции\Kmp_bil\Kmp\obj\Debug\ChangeWindow.baml
+E:\Programs_year_3\Теор компиляции\Kmp_bil\Kmp\obj\Debug\MainWindow.baml
+E:\Programs_year_3\Теор компиляции\Kmp_bil\Kmp\obj\Debug\SearchWindow.baml
+E:\Programs_year_3\Теор компиляции\Kmp_bil\Kmp\obj\Debug\Kmp.g.resources
+E:\Programs_year_3\Теор компиляции\Kmp_bil\Kmp\obj\Debug\Kmp.Properties.Resources.resources
+E:\Programs_year_3\Теор компиляции\Kmp_bil\Kmp\obj\Debug\Kmp.csproj.GenerateResource.cache
+E:\Programs_year_3\Теор компиляции\Kmp_bil\Kmp\obj\Debug\Kmp.csproj.CoreCompileInputs.cache
+E:\Programs_year_3\Теор компиляции\Kmp_bil\Kmp\obj\Debug\Kmp.exe
+E:\Programs_year_3\Теор компиляции\Kmp_bil\Kmp\obj\Debug\Kmp.pdb
+E:\Programs_year_3\Теор компиляции\Kmp_homa\Kmp\bin\Debug\Kmp.exe.config
+E:\Programs_year_3\Теор компиляции\Kmp_homa\Kmp\bin\Debug\Kmp.exe
+E:\Programs_year_3\Теор компиляции\Kmp_homa\Kmp\bin\Debug\Kmp.pdb
+E:\Programs_year_3\Теор компиляции\Kmp_homa\Kmp\obj\Debug\Kmp.csprojAssemblyReference.cache
+E:\Programs_year_3\Теор компиляции\Kmp_homa\Kmp\obj\Debug\addProcedureWidnow.g.cs
+E:\Programs_year_3\Теор компиляции\Kmp_homa\Kmp\obj\Debug\ChangeWindow.g.cs
+E:\Programs_year_3\Теор компиляции\Kmp_homa\Kmp\obj\Debug\MainWindow.g.cs
+E:\Programs_year_3\Теор компиляции\Kmp_homa\Kmp\obj\Debug\SearchWindow.g.cs
+E:\Programs_year_3\Теор компиляции\Kmp_homa\Kmp\obj\Debug\App.g.cs
+E:\Programs_year_3\Теор компиляции\Kmp_homa\Kmp\obj\Debug\Kmp_MarkupCompile.cache
+E:\Programs_year_3\Теор компиляции\Kmp_homa\Kmp\obj\Debug\Kmp_MarkupCompile.lref
+E:\Programs_year_3\Теор компиляции\Kmp_homa\Kmp\obj\Debug\addProcedureWidnow.baml
+E:\Programs_year_3\Теор компиляции\Kmp_homa\Kmp\obj\Debug\ChangeWindow.baml
+E:\Programs_year_3\Теор компиляции\Kmp_homa\Kmp\obj\Debug\MainWindow.baml
+E:\Programs_year_3\Теор компиляции\Kmp_homa\Kmp\obj\Debug\SearchWindow.baml
+E:\Programs_year_3\Теор компиляции\Kmp_homa\Kmp\obj\Debug\Kmp.g.resources
+E:\Programs_year_3\Теор компиляции\Kmp_homa\Kmp\obj\Debug\Kmp.Properties.Resources.resources
+E:\Programs_year_3\Теор компиляции\Kmp_homa\Kmp\obj\Debug\Kmp.csproj.GenerateResource.cache
+E:\Programs_year_3\Теор компиляции\Kmp_homa\Kmp\obj\Debug\Kmp.csproj.CoreCompileInputs.cache
+E:\Programs_year_3\Теор компиляции\Kmp_homa\Kmp\obj\Debug\Kmp.exe
+E:\Programs_year_3\Теор компиляции\Kmp_homa\Kmp\obj\Debug\Kmp.pdb
+C:\Users\Dimasik\Desktop\Новая папка (2)\Kmp_homa\Kmp\bin\Debug\Kmp.exe.config
+C:\Users\Dimasik\Desktop\Новая папка (2)\Kmp_homa\Kmp\bin\Debug\Kmp.exe
+C:\Users\Dimasik\Desktop\Новая папка (2)\Kmp_homa\Kmp\bin\Debug\Kmp.pdb
+C:\Users\Dimasik\Desktop\Новая папка (2)\Kmp_homa\Kmp\obj\Debug\Kmp.csprojResolveAssemblyReference.cache
+C:\Users\Dimasik\Desktop\Новая папка (2)\Kmp_homa\Kmp\obj\Debug\addProcedureWidnow.g.cs
+C:\Users\Dimasik\Desktop\Новая папка (2)\Kmp_homa\Kmp\obj\Debug\ChangeWindow.g.cs
+C:\Users\Dimasik\Desktop\Новая папка (2)\Kmp_homa\Kmp\obj\Debug\MainWindow.g.cs
+C:\Users\Dimasik\Desktop\Новая папка (2)\Kmp_homa\Kmp\obj\Debug\SearchWindow.g.cs
+C:\Users\Dimasik\Desktop\Новая папка (2)\Kmp_homa\Kmp\obj\Debug\App.g.cs
+C:\Users\Dimasik\Desktop\Новая папка (2)\Kmp_homa\Kmp\obj\Debug\Kmp_MarkupCompile.cache
+C:\Users\Dimasik\Desktop\Новая папка (2)\Kmp_homa\Kmp\obj\Debug\Kmp_MarkupCompile.lref
+C:\Users\Dimasik\Desktop\Новая папка (2)\Kmp_homa\Kmp\obj\Debug\addProcedureWidnow.baml
+C:\Users\Dimasik\Desktop\Новая папка (2)\Kmp_homa\Kmp\obj\Debug\ChangeWindow.baml
+C:\Users\Dimasik\Desktop\Новая папка (2)\Kmp_homa\Kmp\obj\Debug\MainWindow.baml
+C:\Users\Dimasik\Desktop\Новая папка (2)\Kmp_homa\Kmp\obj\Debug\SearchWindow.baml
+C:\Users\Dimasik\Desktop\Новая папка (2)\Kmp_homa\Kmp\obj\Debug\Kmp.g.resources
+C:\Users\Dimasik\Desktop\Новая папка (2)\Kmp_homa\Kmp\obj\Debug\Kmp.Properties.Resources.resources
+C:\Users\Dimasik\Desktop\Новая папка (2)\Kmp_homa\Kmp\obj\Debug\Kmp.csproj.GenerateResource.cache
+C:\Users\Dimasik\Desktop\Новая папка (2)\Kmp_homa\Kmp\obj\Debug\Kmp.csproj.CoreCompileInputs.cache
+C:\Users\Dimasik\Desktop\Новая папка (2)\Kmp_homa\Kmp\obj\Debug\Kmp.exe
+C:\Users\Dimasik\Desktop\Новая папка (2)\Kmp_homa\Kmp\obj\Debug\Kmp.pdb
+E:\Programs_year_3\Теор компиляции\Kmp_homa2\Kmp_homa\Kmp\bin\Debug\Kmp.exe.config
+E:\Programs_year_3\Теор компиляции\Kmp_homa2\Kmp_homa\Kmp\bin\Debug\Kmp.exe
+E:\Programs_year_3\Теор компиляции\Kmp_homa2\Kmp_homa\Kmp\bin\Debug\Kmp.pdb
+E:\Programs_year_3\Теор компиляции\Kmp_homa2\Kmp_homa\Kmp\obj\Debug\Kmp.csprojAssemblyReference.cache
+E:\Programs_year_3\Теор компиляции\Kmp_homa2\Kmp_homa\Kmp\obj\Debug\addProcedureWidnow.g.cs
+E:\Programs_year_3\Теор компиляции\Kmp_homa2\Kmp_homa\Kmp\obj\Debug\ChangeWindow.g.cs
+E:\Programs_year_3\Теор компиляции\Kmp_homa2\Kmp_homa\Kmp\obj\Debug\MainWindow.g.cs
+E:\Programs_year_3\Теор компиляции\Kmp_homa2\Kmp_homa\Kmp\obj\Debug\SearchWindow.g.cs
+E:\Programs_year_3\Теор компиляции\Kmp_homa2\Kmp_homa\Kmp\obj\Debug\App.g.cs
+E:\Programs_year_3\Теор компиляции\Kmp_homa2\Kmp_homa\Kmp\obj\Debug\Kmp_MarkupCompile.cache
+E:\Programs_year_3\Теор компиляции\Kmp_homa2\Kmp_homa\Kmp\obj\Debug\Kmp_MarkupCompile.lref
+E:\Programs_year_3\Теор компиляции\Kmp_homa2\Kmp_homa\Kmp\obj\Debug\addProcedureWidnow.baml
+E:\Programs_year_3\Теор компиляции\Kmp_homa2\Kmp_homa\Kmp\obj\Debug\ChangeWindow.baml
+E:\Programs_year_3\Теор компиляции\Kmp_homa2\Kmp_homa\Kmp\obj\Debug\MainWindow.baml
+E:\Programs_year_3\Теор компиляции\Kmp_homa2\Kmp_homa\Kmp\obj\Debug\SearchWindow.baml
+E:\Programs_year_3\Теор компиляции\Kmp_homa2\Kmp_homa\Kmp\obj\Debug\Kmp.g.resources
+E:\Programs_year_3\Теор компиляции\Kmp_homa2\Kmp_homa\Kmp\obj\Debug\Kmp.Properties.Resources.resources
+E:\Programs_year_3\Теор компиляции\Kmp_homa2\Kmp_homa\Kmp\obj\Debug\Kmp.csproj.GenerateResource.cache
+E:\Programs_year_3\Теор компиляции\Kmp_homa2\Kmp_homa\Kmp\obj\Debug\Kmp.csproj.CoreCompileInputs.cache
+E:\Programs_year_3\Теор компиляции\Kmp_homa2\Kmp_homa\Kmp\obj\Debug\Kmp.exe
+E:\Programs_year_3\Теор компиляции\Kmp_homa2\Kmp_homa\Kmp\obj\Debug\Kmp.pdb

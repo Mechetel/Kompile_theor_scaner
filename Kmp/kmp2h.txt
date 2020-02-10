@@ -1,0 +1,18 @@
+private void sum(int a, int b){}
+private bool isodd(int number){}
+public int ddsagd(){}
+bool IsFine(string word){
+            bool fine = true;
+            foreach (char c in word){
+                if (!char.IsLetter(c))
+                {fine = false;}
+            }
+	    isodd(int c);
+            foreach (string s in service1){
+                if (s == word)
+                {fine = false;}
+            }
+	    sum(int gf, int g);
+	    ddsagd();
+            return fine;
+}

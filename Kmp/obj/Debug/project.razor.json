@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "e:\\Programs_year_3\\Теор компиляции\\Kmp_homa\\Kmp\\Kmp.csproj",
+  "TargetFramework": "v4.6.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
